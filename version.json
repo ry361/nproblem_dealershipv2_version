@@ -1,12 +1,15 @@
 {
   "qb": {
     "dealership": {
-      "version": "1.0.0",
-      "releaseDate": "2026-07-28",
+      "version": "1.0.1",
+      "releaseDate": "2026-09-01",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        { "text": "Initial release." }
+        { "text": "Custom vehicle categories are now supported. Any category name in your vehicle list that isn't a built-in GTA class becomes its own category." },
+        { "text": "Custom categories can be assigned when creating or editing a dealership." },
+        { "text": "The showroom catalog now groups vehicles by your own category names instead of GTA class names." },
+        { "text": "You can type a category when adding or editing a vehicle instead of only picking from the built-in list." },
       ],
       "missingFeatures": [],
       "removed": []
@@ -14,12 +17,15 @@
   },
   "qbox": {
     "dealership": {
-      "version": "1.0.0",
-      "releaseDate": "2026-07-28",
+      "version": "1.0.1",
+      "releaseDate": "2026-09-01",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        { "text": "Initial release." }
+        { "text": "Custom vehicle categories are now supported. Any category name in your vehicle list that isn't a built-in GTA class becomes its own category." },
+        { "text": "Custom categories can be assigned when creating or editing a dealership." },
+        { "text": "The showroom catalog now groups vehicles by your own category names instead of GTA class names." },
+        { "text": "You can type a category when adding or editing a vehicle instead of only picking from the built-in list." },
       ],
       "missingFeatures": [],
       "removed": []
@@ -27,12 +33,15 @@
   },
   "esx": {
     "dealership": {
-      "version": "1.0.0",
-      "releaseDate": "2026-07-28",
+      "version": "1.0.1",
+      "releaseDate": "2026-09-01",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        { "text": "Initial release." }
+        { "text": "Custom vehicle categories are now supported. Any category name in your vehicle list that isn't a built-in GTA class becomes its own category." },
+        { "text": "Custom categories can be assigned when creating or editing a dealership." },
+        { "text": "The showroom catalog now groups vehicles by your own category names instead of GTA class names." },
+        { "text": "You can type a category when adding or editing a vehicle instead of only picking from the built-in list." },
       ],
       "missingFeatures": [],
       "removed": []
